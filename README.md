@@ -5,3 +5,4 @@ Three *Ultrasonic sensors* for head-level/mid-level obstacle detection
 *ESP32-CAM* for visual feedback on obstacle detection
 *Buzzer/Vibration Motor* for alert feedback
 *FreeRTOS tasks* for real-time parallel execution
+It consists of both the codes i.e. an actual one and the code written separately for testing purposes.
